@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PinSharper", "PinSharper\PinSharper.csproj", "{565A32DB-C2BB-4665-8789-8EBD9447800A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PinSharperConsoleSample", "PinSharperConsoleSample\PinSharperConsoleSample.csproj", "{CFEBC4F6-2D75-4106-B209-F19B50F43513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565A32DB-C2BB-4665-8789-8EBD9447800A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565A32DB-C2BB-4665-8789-8EBD9447800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565A32DB-C2BB-4665-8789-8EBD9447800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565A32DB-C2BB-4665-8789-8EBD9447800A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEBC4F6-2D75-4106-B209-F19B50F43513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEBC4F6-2D75-4106-B209-F19B50F43513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEBC4F6-2D75-4106-B209-F19B50F43513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEBC4F6-2D75-4106-B209-F19B50F43513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34687328-2DB1-406E-AEAF-BA576641CC6F}
+	EndGlobalSection
+EndGlobal
